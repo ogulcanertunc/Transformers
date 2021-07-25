@@ -8,7 +8,7 @@ The dataset named Interpress Turkish News Category Dataset (270K) prepared by In
   - [x] BERT (Fine-Tuning)
 
 # Resuts
-- `BERT` - test_accuracy: 0.72, test_loss: 0.0015671474330127238
+- `BERT` - test_accuracy: 0.85
 
 
 # Requirements

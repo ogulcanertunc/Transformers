@@ -6,7 +6,12 @@ In this repo, I share the Transformers applications that I have made myself.
 1. [Turkish News Multi-Class Classification](https://github.com/ogulcanertunc/Transformers/tree/main/Turkish%20News%20Multi-Class%20Classification)
 2. [Turkish Movie Sentiment Analysis](https://github.com/ogulcanertunc/Transformers/tree/main/Turkish%20Movie%20Sentiment%20Analysis)
   
-     
+## Hardware and Software Requirements
+---
+- Python 3.6 and above
+- Pytorch, Transformers and well known Python ML Libraries
+- GPU and TPU depending on your request  
+ 
 ## Background
 ---
 Hello there!
